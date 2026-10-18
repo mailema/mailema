@@ -28,7 +28,7 @@ I am a Software Engineering student at Bayero University Kano, Nigeria. I focus 
 
 - **GDSS Yandutse School System**  
   Short description: School system project.
-  Link: https://gdss-yandutse.vercel.app/home
+  Link: https://gdss-yandutse.vercel.app/
 
 - **RIFCO**  
   Short description: Web application project. 

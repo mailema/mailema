@@ -48,7 +48,7 @@ I am a Software Engineering student at Bayero University Kano, Nigeria. I focus 
 ## Contact
 - Email: [ismailaufiydt@gmail.com](mailto:ismailaufiydt@gmail.com)
 
-Portfolio: Coming soon
+Portfolio: https://mailema.github.io/myportfolio/
 
 ---
 

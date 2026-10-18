@@ -27,13 +27,16 @@ I am a Software Engineering student at Bayero University Kano, Nigeria. I focus 
 ## Selected Projects
 
 - **GDSS Yandutse School System**  
-  Short description: School system project. Repository/link will be added when available.
+  Short description: School system project.
+  Link: https://gdss-yandutse.vercel.app/home
 
 - **RIFCO**  
-  Short description: Web application project. Repository/link will be added when available.
+  Short description: Web application project. 
+  Link: https://rifco-seven.vercel.app/
 
 - **Task Manager**  
-  Short description: Task management application project. Repository/link will be added when available.
+  Short description: Task management application project.
+  Link: https://bnauf.github.io/task-manager/
 
 - **Multi-School Management System (In Progress)**  
   Short description: Multi-school management system currently under development. Repository/link will be added when available.
